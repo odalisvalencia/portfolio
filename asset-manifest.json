@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.js": "/odalisvalencia/portfolio/static/js/main.6c095771.chunk.js",
+    "main.js.map": "/odalisvalencia/portfolio/static/js/main.6c095771.chunk.js.map",
+    "runtime-main.js": "/odalisvalencia/portfolio/static/js/runtime-main.53d06c8f.js",
+    "runtime-main.js.map": "/odalisvalencia/portfolio/static/js/runtime-main.53d06c8f.js.map",
+    "static/js/2.e57c3027.chunk.js": "/odalisvalencia/portfolio/static/js/2.e57c3027.chunk.js",
+    "static/js/2.e57c3027.chunk.js.map": "/odalisvalencia/portfolio/static/js/2.e57c3027.chunk.js.map",
+    "index.html": "/odalisvalencia/portfolio/index.html",
+    "static/js/2.e57c3027.chunk.js.LICENSE.txt": "/odalisvalencia/portfolio/static/js/2.e57c3027.chunk.js.LICENSE.txt",
+    "static/media/blog1.7ecbb78c.svg": "/odalisvalencia/portfolio/static/media/blog1.7ecbb78c.svg",
+    "static/media/blog2.09939351.svg": "/odalisvalencia/portfolio/static/media/blog2.09939351.svg",
+    "static/media/blog3.6291ee7c.svg": "/odalisvalencia/portfolio/static/media/blog3.6291ee7c.svg",
+    "static/media/blog4.60aa6cec.svg": "/odalisvalencia/portfolio/static/media/blog4.60aa6cec.svg",
+    "static/media/design.8ecb3043.svg": "/odalisvalencia/portfolio/static/media/design.8ecb3043.svg",
+    "static/media/game-dev.20147858.svg": "/odalisvalencia/portfolio/static/media/game-dev.20147858.svg",
+    "static/media/intelligence.11bd2ab2.svg": "/odalisvalencia/portfolio/static/media/intelligence.11bd2ab2.svg",
+    "static/media/maya-3.8bd072e0.jpg": "/odalisvalencia/portfolio/static/media/maya-3.8bd072e0.jpg",
+    "static/media/maya-4.98e8029e.jpg": "/odalisvalencia/portfolio/static/media/maya-4.98e8029e.jpg",
+    "static/media/user.14070511.png": "/odalisvalencia/portfolio/static/media/user.14070511.png",
+    "static/media/web.e496e024.png": "/odalisvalencia/portfolio/static/media/web.e496e024.png",
+    "static/media/web2.57c856e6.png": "/odalisvalencia/portfolio/static/media/web2.57c856e6.png",
+    "static/media/xd.df116f9a.png": "/odalisvalencia/portfolio/static/media/xd.df116f9a.png",
+    "static/media/xd2.5a63716b.png": "/odalisvalencia/portfolio/static/media/xd2.5a63716b.png",
+    "static/media/xd4.90feab20.png": "/odalisvalencia/portfolio/static/media/xd4.90feab20.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53d06c8f.js",
+    "static/js/2.e57c3027.chunk.js",
+    "static/js/main.6c095771.chunk.js"
+  ]
+}
